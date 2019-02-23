@@ -1,6 +1,5 @@
-Git and GitHub are used for version control. <make a change locally>
+Git and GitHub are used for version control. 
 
-git manages your files. > here is a remote change <
+git manages your files. 
 
-<<<<<<< HEAD
-GitHub hosts your files. <making a local change second time>
+GitHub hosts your files. 
