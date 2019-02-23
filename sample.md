@@ -1,4 +1,4 @@
-Git and GitHub are used for version control.
+Git and GitHub are used for version control. <make a change locally>
 
 git manages your files.
 
